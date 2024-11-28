@@ -2,9 +2,8 @@
 
 # Project Name: EXploreGH
 
-## Description
-[Provide a brief description of the project. For example:  
-"A platform dedicated to preserving and showcasing the rich cultural heritage of GHana through interactive storytelling, educational resources, and modern technology.
+## Description  
+"A  web application that centralizes details on festivals, cultural experiences, adventure opportunities, and natural resources.
 
 ---
 
@@ -23,8 +22,8 @@ Before you begin, ensure you have the following installed on your computer:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone (https://github.com/AkotoChristine/ExPlore.git)
+cd ExploreGH
 ```
 
 ### Step 2: Install Dependencies
@@ -41,7 +40,7 @@ npm install
   PORT=5000
   ```
 
-### Step 4: Seed the Database (If Applicable)
+### Step 4: Seed the Database
 Run the seed script to populate your database with initial data:
 ```bash
 node seed.js
@@ -74,13 +73,11 @@ npm start
 ## Accessing the Application
 Once the servers are running:
 - Open your browser and navigate to [http://localhost:3000](http://localhost:3000) for the frontend.
-- The backend API runs on [http://localhost:5000](http://localhost:5000).
+- The backend API runs on [[http://localhost:5000](http://localhost:5000)](https://explore-2.onrender.com).
 
 ---
 
-## Contributing
-[Provide instructions for contributors. For example:  
-"Feel free to fork the repository, create a new branch, and submit a pull request with your contributions."]
+
 
 ---
 
@@ -89,4 +86,3 @@ Once the servers are running:
 
 ---
 
-Would you like help tailoring this to your specific project structure or features? Let me know!
